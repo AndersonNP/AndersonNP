@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil do GitHub!
 
-<!--
-**AndersonNP/AndersonNP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou [seu nome], desenvolvedor(a) apaixonado(a) por tecnologia e programação. Aqui você vai encontrar alguns dos meus projetos e contribuições.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Projeto 1](link_do_projeto)
+- [Projeto 2](link_do_projeto)
+
+## Entre em contato
+
+- [LinkedIn](link_para_o_linkedin)
+- [Twitter](link_para_o_twitter)
